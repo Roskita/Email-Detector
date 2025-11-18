@@ -1,3 +1,4 @@
 credentials
 .env
 sound.wav
+__pycache__/
